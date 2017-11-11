@@ -6,6 +6,7 @@ Please open [Issues](https://github.com/lucakiebel/ListX-Alpha/issues/new) for e
 Below is a list of Knows Bugs and upcoming features
 
 ## Confirmed Bugs
+* [[BUG] There are no User Settings](https://github.com/lucakiebel/ListX-Alpha/issues/1)
 
 ## Coming Features
 
